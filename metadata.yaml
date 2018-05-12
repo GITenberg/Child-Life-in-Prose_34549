@@ -1,0 +1,34 @@
+_repo: Child-Life-in-Prose_34549
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34549-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Whittier, John Greenleaf
+    aliases:
+    - Whittier, John G. (John Greenleaf)
+    - Whittier, J. G. (John Greenleaf)
+    birthdate: 1807
+    deathdate: 1892
+    gutenberg_agent_id: '455'
+    url: http://www.gutenberg.org/2009/agents/455
+    wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
+description: ''
+gutenberg_issued: '2010-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+tableOfContents: Stories of child life -- Fancies of child life -- Memories of child
+  life.
+title: Child Life in Prose
+url: http://www.gutenberg.org/ebooks/34549
